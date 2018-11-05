@@ -7,7 +7,8 @@ Total Time Spent: 12 hours
 	- I deployed the Dionaea Over HTTP HoneyPot as per the instuctions of the assignment.
 	- As the assignment suggested, I used Google Cloud to provision the Admin and HoneyPot VMs.
 	- Here is a walkthrough that shows my deployed honeypot intercepting my attack from my local machine.
-		- GIF: ![](HoneyPot.gif)
+		  - [ ] GIF Walkthrough: 
+  			![](HoneyPot.gif)
 
 ##Issues Encountered
 
@@ -19,7 +20,8 @@ Total Time Spent: 12 hours
 
 	- Here is a quick summary of all of the collected data from the HoneyPot:
 
-	![](summary.png)
+	- [ ] Summary: 
+  	![](summary.png)
 
 ##Unresolved Questions
 
