@@ -6,9 +6,8 @@ Total Time Spent: 12 hours
 
 	- I deployed the Dionaea Over HTTP HoneyPot as per the instuctions of the assignment.
 	- As the assignment suggested, I used Google Cloud to provision the Admin and HoneyPot VMs.
-	- Here is a walkthrough that shows my deployed honeypot intercepting my attack from my local machine.
-		  - [ ] GIF Walkthrough: 
-  			![](HoneyPot.gif)
+	- Please refer to the "HoneyPot.gif" file to look at a quick walkthrough. 
+	- The GIF walkthrough will show the honeypot that I deployed and how it intercepts the attacks from my local machine.
 
 ##Issues Encountered
 
@@ -18,11 +17,11 @@ Total Time Spent: 12 hours
 
 ##Summary of Data Collected
 
-	- Here is a quick summary of all of the collected data from the HoneyPot:
-
-	- [ ] Summary: 
-  	![](summary.png)
+	- Please refer to the file titled "summary.png".  To look at a detailed summary of the data collected by the HoneyPot.
+	- It shows the total number of attacks from the Dionaea honeypot as well as which ports were attacked the most.
+	- Please also refer to the file titled "session.json" to look at all the raw. data collected from my honeypot
 
 ##Unresolved Questions
 
 	- I am still unclear as to why the mongoexport did not work initially and why it couldn't connect to 127.0.0.1.
+	
